@@ -11,5 +11,5 @@
 1. [x] [SQL](sql/)
 1. [x] [Reporting](reporting/)
 1. [ ] [Summary](summary/)
-1. [Project Sample](https://ci.appveyor.com/api/projects/status/x8u4mkmn3g97203a/branch/master?svg=true)](https://ci.appveyor.com/project/Tepskela/1-2testapicl/branch/master)
 
+[![Project Sample](https://ci.appveyor.com/api/projects/status/x8u4mkmn3g97203a/branch/master?svg=true)](https://ci.appveyor.com/project/Tepskela/1-2testapicl/branch/master)
